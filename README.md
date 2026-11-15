@@ -78,9 +78,6 @@ An interactive Superstore Sales and Profit Analysis dashboard created to explore
 - KPI Reporting
 - Interactive Filters and Slicers
 
-![Superstore Power BI Dashboard](./Superstore-PowerBI-Dashboard.png)
-
-[View Power BI Project](./Sales%20%26%20Profit%20Trend%20by%20Year.pbix)
 
   ![Superstore Power BI Dashboard](./Superstore-PowerBI-Dashboard.png)
 [View Power BI Project](./Sales%20%26%20Profit%20Trend%20by%20Year.pbix)
