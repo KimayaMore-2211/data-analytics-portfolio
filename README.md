@@ -17,14 +17,32 @@ I am continuously developing my skills through practical projects and hands-on l
 
 ## 📊 My Projects
 
-### 1. Coffee Sales Analysis – Excel
+# 1. Coffee Sales Analysis Dashboard
 
 **Tool:** Microsoft Excel
 
-- Worked with coffee sales data.
-- Practised data cleaning and organisation.
-- Used Excel analysis and visualisation features.
-- Explored sales performance and trends.
+## Project Objective
+To analyse coffee sales data and understand sales performance across different coffee categories and months.
+
+## Key Performance Indicators
+- Total Transactions: 3,635
+- Total Sales: ₹115,431.58
+- Average Sales: 31.75
+
+## Dashboard Features
+- Interactive Year, Month and Coffee Name slicers
+- Monthly Sales Analysis
+- Coffee-wise Sales Comparison
+- Sales Distribution Analysis
+- Key Business Insights
+
+## Skills Demonstrated
+- Excel Data Analysis
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Design
+- Data Visualisation
 
 ![Coffee Sales Dashboard](./Coffee-Sales-Dashboard.png)
 [View Coffee Sales Project](./Coffee%20Sales.xlsx)
@@ -33,20 +51,68 @@ I am continuously developing my skills through practical projects and hands-on l
 
 **Tool:** Microsoft Power BI
 
-- Created a business performance dashboard.
-- Explored sales and profit trends by year.
-- Practised data visualisation and reporting.
+**Project Overview:**
+
+An interactive Superstore Sales and Profit Analysis dashboard created to explore business performance across different years, regions, product categories and customer segments.
+
+**Key Performance Indicators (KPIs):**
+- Total Sales: 2.33M
+- Total Orders: 5K
+- Total Profit: 292.30K
+- Total Quantity: 39K
+- Average Discount: 0.16
+
+**Dashboard Features:**
+- Interactive Year, Region, Category and Segment filters
+- Sales Analysis by Region
+- Sales and Profit Trends by Year
+- Sales Distribution by Customer Segment
+- Top 10 Products by Sales
+- Sales Analysis by Category
+- Profit Analysis by Sub-Category
+
+**Skills Demonstrated:**
+- Power BI Dashboard Development
+- Data Visualisation
+- Business Performance Analysis
+- KPI Reporting
+- Interactive Filters and Slicers
+
+![Superstore Power BI Dashboard](./Superstore-PowerBI-Dashboard.png)
+
+[View Power BI Project](./Sales%20%26%20Profit%20Trend%20by%20Year.pbix)
 
   ![Superstore Power BI Dashboard](./Superstore-PowerBI-Dashboard.png)
 [View Power BI Project](./Sales%20%26%20Profit%20Trend%20by%20Year.pbix)
 
 ### 3. SQL Query Presentation
 
-**Tool:** SQL
+***Tool:** SQL
 
-- Practised SQL queries and database concepts.
-- Worked with data filtering and aggregation.
-- Explored SQL functions and query logic.
+**Project Overview:**
+
+A 21-page presentation covering SQL concepts, database fundamentals and practical SQL queries.
+
+**Topics Covered:**
+- SQL Introduction and Database Basics
+- SQL Commands and Basic Queries
+- Filtering, Sorting and Limiting Data
+- Aggregate Functions
+- GROUP BY and HAVING
+- CASE WHEN and SQL Functions
+- SQL JOINs and UNION
+- Subqueries
+- Window Functions
+- Practical SQL Queries and Results
+
+**Skills Demonstrated:**
+- SQL Query Writing
+- Data Filtering and Sorting
+- Data Aggregation
+- Database Concepts
+- Analytical Query Techniques
+
+[View SQL Presentation](./SQL%20Query%20Presentation.pdf)
 
 [View SQL Presentation](./SQL%20Query%20Presentation.pdf)
 
