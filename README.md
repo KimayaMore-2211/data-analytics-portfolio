@@ -26,6 +26,7 @@ I am continuously developing my skills through practical projects and hands-on l
 - Used Excel analysis and visualisation features.
 - Explored sales performance and trends.
 
+![Coffee Sales Dashboard](./Coffee-Sales-Dashboard.png)
 [View Coffee Sales Project](./Coffee%20Sales.xlsx)
 
 ### 2. Sales & Profit Trend by Year – Power BI
