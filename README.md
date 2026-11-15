@@ -37,6 +37,7 @@ I am continuously developing my skills through practical projects and hands-on l
 - Explored sales and profit trends by year.
 - Practised data visualisation and reporting.
 
+  ![Superstore Power BI Dashboard](./Superstore-PowerBI-Dashboard.png)
 [View Power BI Project](./Sales%20%26%20Profit%20Trend%20by%20Year.pbix)
 
 ### 3. SQL Query Presentation
